@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#hola mundo
 from MySQLdb import connect
 from PySide.QtGui import *
 from PySide.QtCore import *
